@@ -74,4 +74,4 @@ GitHub: naso7y
 
 Email: ahmed.noshy2004@gmail.com
 
-LinkedIn: ![LinkedIn] (www.linkedin.com/in/nos7y/)
+LinkedIn: ![LinkedIn](www.linkedin.com/in/nos7y/)
