@@ -70,4 +70,8 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 
-For questions or suggestions, feel free to open an issue or contact the repository owner.
+GitHub: naso7y
+
+Email: ahmed.noshy2004@gmail.com
+
+LinkedIn: ![LinkedIn] (www.linkedin.com/in/nos7y/)
