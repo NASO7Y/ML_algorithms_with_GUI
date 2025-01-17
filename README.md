@@ -1,8 +1,7 @@
 
 # ML Algorithms with GUI
 
-A repository showcasing various Machine Learning algorithms integrated with user-friendly Graphical User Interfaces (GUIs). This project is designed to simplify the understanding and application of ML concepts by providing visual and interactive tools.
-
+**This Tkinter-based app allows users to upload CSV files, preprocess data, and apply machine learning algorithms like Random Forest, SVM, Decision Tree, Neural Network, KNN for classification, Linear Regression for regression, and K-Means for clustering. It displays metrics and visualizes  results, offering an interface for machine learning tasks**
 ## Features
 
 - **Implemented Algorithms:**
